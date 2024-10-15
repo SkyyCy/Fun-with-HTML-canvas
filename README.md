@@ -2,7 +2,7 @@
 
 Project 8 of Wes Bos's 30 JavaScript projects in 30 days
 
-Check it out! https://transcendent-axolotl-b11ab8.netlify.app/
+https://transcendent-axolotl-b11ab8.netlify.app/
 
 Tip: Click and hold to draw. 
 
